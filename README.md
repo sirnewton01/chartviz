@@ -1,6 +1,6 @@
-# Chartviz - text representation of line, bar and gauge graphs
+# Chartviz - text representations of charts
 
-Chartviz is a tool that works with graphs that are written in plain text. Here are some examples.
+Chartviz is a tool that works with charts that are written in plain text, such as line, bar and gauges. Here are some examples.
 
 ```.cv
 day,high_temp (*)
